@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 p-5">
-        <h1>Deserts</h1>
+        <PageTitle page_title="Desserts" />
         <p>
           ...
         </p>
